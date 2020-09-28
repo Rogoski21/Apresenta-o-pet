@@ -1,3 +1,3 @@
-# Apresenta-o-pet
-Exemplo usado na apresentação do GitHub
-hahahahahahah
+# Presentation GitHub
+How to use GitHub
+
